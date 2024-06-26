@@ -19,3 +19,4 @@ Description | Sample Name
 Intro to Building and Deploying an Agent with Reasoning Engine in Vertex AI | [intro_reasoning_engine.ipynb](intro_reasoning_engine.ipynb)
 Building a Conversational Search Agent with Reasoning Engine and RAG on Vertex AI Search | [tutorial_vertex_ai_search_rag_agent.ipynb](tutorial_vertex_ai_search_rag_agent.ipynb)
 Building and Deploying a Google Maps API Agent with Reasoning Engine | [tutorial_google_maps_agent.ipynb](tutorial_google_maps_agent.ipynb)
+Deploying a RAG Application with AlloyDB with Reasoning Engine on Vertex AI | [alloydb_reasoning_agent.ipynb]
